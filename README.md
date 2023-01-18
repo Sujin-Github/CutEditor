@@ -67,4 +67,7 @@ Window 기준으로 제작했습니다.<br>
 <img src='https://drive.google.com/uc?export=view&id=1TK2-8j5PotL-w6-Qlo42wbjxcm5E-nDN' width=100% alt='이미지가 보이지 않는다면 새로고침해주세요.'><br>
 컷 사이 간격이 유지된 채로 잘려서 저장됩니다.
 
-
+<br><br><br>
+### 후원
+프로그램이 유용하셨다면 아래 포스타입 링크에서 후원해주세요!
+https://posty.pe/1ewlzg
