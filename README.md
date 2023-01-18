@@ -14,8 +14,8 @@
 <br><br>
 Window 기준으로 제작했습니다.<br>
 제가 그림 그리다가 답답해서 만든 거라 여러모로 허접합니다...<br>
-깃허브에 원본 코드 올려놨습니다. 수정하실 분 하셔도 됩니다. <br>
-오류 등은 sujin04420442@gmail.com으로 메일 주세요.<br><br><br><br>
+오류 등은 sujin04420442@gmail.com으로 메일 주세요.<br>
+수정하실 분은 요청하시면 원본 코드 보내드리겠습니다.<br><br><br>
 
 ## 다운로드
 ### [이 링크](https://drive.google.com/file/d/1UjAChPkCuoB7q6hpYFv4VI-cI9hKZVaJ/view?usp=share_link)에서 다운받으실 수 있습니다.<br>
