@@ -7,7 +7,7 @@
 <hr>
 
 ## 소개
-<img src='https://drive.google.com/uc?export=view&id=1X-Cf_CodEDpryujqcpWWmwaUvXNXdNrt' width=100%><br>
+<img src='https://drive.google.com/uc?export=view&id=1X-Cf_CodEDpryujqcpWWmwaUvXNXdNrt' width=100% alt='이미지가 보이지 않는다면 새로고침해주세요.'><br>
 세로 스크롤 웹툰 원고의 컷 간격을 조정하거나 컷 단위로 분리해주는 프로그램입니다. <br>
 스마트폰 화면에서 컷 간격이 좁아 답답해 보일 때 컷 간격 기능을 사용하시면 됩니다.
 직접 간격을 조정하거나 업로드의 편의를 위해 이미지를 작게 나누는 경우에는 컷 분리를 사용하시면 됩니다.
@@ -26,7 +26,7 @@ Window 기준으로 제작했습니다.<br>
 <br><br><br><br>
 
 ## 사용 방법
-<img src='https://drive.google.com/uc?export=view&id=14qQhdjLXE_txQXc29DmD6a-5PL60nWCT' width=100%><br>
+<img src='https://drive.google.com/uc?export=view&id=14qQhdjLXE_txQXc29DmD6a-5PL60nWCT' width=100% alt='이미지가 보이지 않는다면 새로고침해주세요.'><br>
 가장 먼저 이미지를 업로드합니다.
 이미지는
 * .png, .jpg 확장자
@@ -43,7 +43,7 @@ Window 기준으로 제작했습니다.<br>
 2. 컷 사이 넣어줄 간격을 픽셀 단위로 설정합니다.
 3. (선택) 저장할 이름을 설정합니다. 설정한 대로 원본 이미지의 이름 뒤에 붙어 저장됩니다. 기본은 원본_(2).png입니다.
 4. 실행을 누르면 잠시 후 저장된 경로가 나타납니다. png로 저장됩니다.<br>
-<img src='https://drive.google.com/uc?export=view&id=1lOtAp3K0kjND0ByVI2gvox91Vc6JIgzA' width=100%><br>
+<img src='https://drive.google.com/uc?export=view&id=1lOtAp3K0kjND0ByVI2gvox91Vc6JIgzA' width=100% alt='이미지가 보이지 않는다면 새로고침해주세요.'><br>
 <br><br><br><br>
 
 ### 컷 분리
@@ -62,7 +62,7 @@ Window 기준으로 제작했습니다.<br>
 * 위의 이유로 분할했는데 플랫폼에 업로드 할 때 틈이 생기는 경우<br><br>
 이 기능을 '세로로 분할하여 출력'처럼 이용할 수 있습니다. <br><br>
 '간격 유지' 박스에 체크를 하고 컷 분리를 진행합니다.<br>
-<img src='https://drive.google.com/uc?export=view&id=1TK2-8j5PotL-w6-Qlo42wbjxcm5E-nDN' width=100%><br>
+<img src='https://drive.google.com/uc?export=view&id=1TK2-8j5PotL-w6-Qlo42wbjxcm5E-nDN' width=100% alt='이미지가 보이지 않는다면 새로고침해주세요.'><br>
 컷 사이 간격이 유지된 채로 잘려서 저장됩니다.
 
 
