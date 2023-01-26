@@ -45,6 +45,7 @@ Window 기준으로 제작했습니다.<br>
 3. (선택) 저장할 이름을 설정합니다. 설정한 대로 원본 이미지의 이름 뒤에 붙어 저장됩니다. 기본은 `원본_(2).png`입니다.
 4. 실행을 누르면 잠시 후 저장된 경로가 나타납니다. png로 저장됩니다.<br>
 <img src='https://drive.google.com/uc?export=view&id=1lOtAp3K0kjND0ByVI2gvox91Vc6JIgzA' width=100% alt='이미지가 보이지 않는다면 새로고침해주세요.'><br>
+가장 오른쪽은 클립스튜디오의 '웹툰용 표시 범위'기능을 이용해 전후를 비교한 사진입니다.
 <br><br><br><br>
 
 ### 컷 분리
